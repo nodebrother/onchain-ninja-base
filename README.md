@@ -32,6 +32,12 @@ Each level represents a deeper integration into the onchain ecosystem — turnin
 
 ---
 
+## 🎥 Video Example
+
+- YouTube: [youtube.com/watch?v=BA4PrVu2KRc](https://www.youtube.com/watch?v=BA4PrVu2KRc)
+
+---
+
 ## 🛠️ Stack
 
 - **React** + **Next.js 14**
