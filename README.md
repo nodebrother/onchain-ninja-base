@@ -54,10 +54,4 @@ Each level represents a deeper integration into the onchain ecosystem — turnin
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out if you're interested in the technical details or future collaboration opportunities.
-
----
-
 > 💡 *The code for this project is not open source, but images and this documentation serve as a showcase for functionality and design.*
