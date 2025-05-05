@@ -27,9 +27,9 @@ Each level represents a deeper integration into the onchain ecosystem — turnin
 
 ## 📸 Screenshots
 
-| Level Start | Onchain Task | Progression |
-|------------|---------------|-------------|
-| ![start](./images/start.png) | ![task](./images/task.png) | ![progress](./images/progress.png) |
+| Level Start | Onchain Task |
+|------------|---------------|
+| ![start](./3f1aa7e7-490b-42be-8ae9-cf623e046a96.jpeg) | ![task](./images/task.png)
 
 ---
 
