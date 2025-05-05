@@ -1,7 +1,7 @@
 # 🕹️ Onchain Quest — Game x Social dApp  
 ### 🎮 Hackathon Project — Base Onchain Summer 2024 (Category: Gaming & Social)
 
-![Onchain Quest Banner](./images/banner.png)
+![Onchain Quest Banner](./2abc704f-3df4-47f7-9f2a-c6a1d6722058.jpeg)
 
 ## 🧩 Overview
 
