@@ -19,7 +19,6 @@ Each level represents a deeper integration into the onchain ecosystem — turnin
 - 🧠 **Social identity verification** using Farcaster
 - 🖼️ **NFT progression system** (smart contract-based levels)
 - 🔐 **Wallet-connected experience** (via AppKit)
-- ⚙️ **Network detection and switching logic**
 - 🎯 **Fully onchain logic**, with front-end checks and EVM read interactions
 - 🎨 **Custom UI components** (React + Tailwind, styled with modularity)
 
@@ -29,7 +28,7 @@ Each level represents a deeper integration into the onchain ecosystem — turnin
 
 | Level Start | Onchain Task |
 |------------|---------------|
-| ![start](./3f1aa7e7-490b-42be-8ae9-cf623e046a96.jpeg) | ![task](./images/task.png)
+| ![start](./3f1aa7e7-490b-42be-8ae9-cf623e046a96.jpeg) | ![task](./5f4efdf2-d6eb-4267-b874-0a31bb1a6542.jpeg)
 
 ---
 
