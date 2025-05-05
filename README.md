@@ -50,6 +50,7 @@ Each level represents a deeper integration into the onchain ecosystem — turnin
 - 🧑‍💻 **Track:** Games & Social  
 - ⏱️ **Duration:** 2 days  
 - 👥 **Solo project**
+- 🌐 Website: [onchain-ninja.vercel.app](https://onchain-ninja.vercel.app/)
 
 ---
 
